@@ -45,11 +45,11 @@ Predict the median house value using features such as:
   <tbody>
     <tr>
       <td>Linear Regression</td>
-      <td>123456.78</td>
+      <td>66.7%</td>
     </tr>
     <tr>
       <td>Random Forest</td>
-      <td>98765.43</td>
+      <td>97.3%</td>
     </tr>
   </tbody>
 </table>
