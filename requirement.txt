@@ -1,0 +1,9 @@
+<h1>REQUIREMENT TEXT</h1>
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+jupyterlab
+notebook
