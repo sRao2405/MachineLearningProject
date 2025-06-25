@@ -54,3 +54,7 @@ Predict the median house value using features such as:
   </tbody>
 </table>
    
+<h1>AUTHOR</h1>
+
+Name   - SAHIL RAO
+E.mail - srao27045@gmail.com
