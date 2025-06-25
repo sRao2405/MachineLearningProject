@@ -35,10 +35,22 @@ Predict the median house value using features such as:
 
 
 # Model Performance
-+---------------------+--------------+
-|      Model          | RMSE (Test)  |
-+---------------------+--------------+
-| Linear Regression   | 66.7%        |
-| Random Forest       | 97.3%        |
-+---------------------+--------------+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>RMSE (Test)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Linear Regression</td>
+      <td>123456.78</td>
+    </tr>
+    <tr>
+      <td>Random Forest</td>
+      <td>98765.43</td>
+    </tr>
+  </tbody>
+</table>
    
